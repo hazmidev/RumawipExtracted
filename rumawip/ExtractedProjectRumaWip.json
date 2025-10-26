@@ -1,0 +1,590 @@
+[
+    {
+        "Page": 1,
+        "Name": "Residensi Metropolitan Kepong (Residensi Wilayah)",
+        "Price": "RM 300,000",
+        "Units": "552 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "Residensi Awani 6",
+        "Price": "RM 300,000",
+        "Units": "638 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "Residensi Kerinchi Ria (Ria Bangsar South)",
+        "Price": "RM 300,000",
+        "Units": "336 Unit",
+        "Area": "802 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "RESIDENSI AKASIA RAYA",
+        "Price": "RM 300,000",
+        "Units": "702 Unit",
+        "Area": "810 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "RESIDENSI ANDALAN",
+        "Price": "RM 300,000",
+        "Units": "823 Unit",
+        "Area": "818 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "Residensi Wilayah Sentral",
+        "Price": "RM 300,000",
+        "Units": "1336 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "Residensi Wilayah (Desa Tasik) 908kps",
+        "Price": "RM 300,000",
+        "Units": "193 Unit",
+        "Area": "908 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "Residensi Wilayah (Desa Tasik) 902kps",
+        "Price": "RM 300,000",
+        "Units": "717 Unit",
+        "Area": "902 kps"
+    },
+    {
+        "Page": 1,
+        "Name": "Residensi J Satin (Fasa 2) - Block A & B",
+        "Price": "RM 300,000",
+        "Units": "1532 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi Desa Timur",
+        "Price": "RM 300,000",
+        "Units": "1218 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi J Satin (Fasa 1)",
+        "Price": "RM 300,000",
+        "Units": "2,068 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "RESIDENSI VISTA MELATI",
+        "Price": "RM 300,000",
+        "Units": "238 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "PENCHALA 188 RESIDENCY (REZAB MELAYU)",
+        "Price": "RM 300,000",
+        "Units": "57 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi Padang",
+        "Price": "RM 300,000",
+        "Units": "100 Unit",
+        "Area": "802 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi Berlian Setapak 2",
+        "Price": "RM 265,000",
+        "Units": "67 Unit",
+        "Area": "901 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi Serina",
+        "Price": "RM 300,000",
+        "Units": "661 Unit",
+        "Area": "829 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi Max II",
+        "Price": "RM 300,000",
+        "Units": "604 Unit",
+        "Area": "801 kps"
+    },
+    {
+        "Page": 2,
+        "Name": "Residensi Dutamas Dahlia",
+        "Price": "RM 300,000",
+        "Units": "359 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Pitta",
+        "Price": "RM 300,000",
+        "Units": "1,168 Unit",
+        "Area": "859 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Vierra Residence",
+        "Price": "RM 300,000",
+        "Units": "1,604 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Laman Segar Hijau (LSH SEGAR)",
+        "Price": "RM 300,000",
+        "Units": "440 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Armani Bukit Lanjan - Tanah Rizab Melayu",
+        "Price": "RM 300,000",
+        "Units": "69 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "RESIDENSI SUTERA",
+        "Price": "RM 300,000",
+        "Units": "98 Unit",
+        "Area": "936 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Max",
+        "Price": "RM 300,000",
+        "Units": "818 Unit",
+        "Area": "901 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Alamanda",
+        "Price": "RM 300,000",
+        "Units": "678 Unit",
+        "Area": "815 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Razakmas 2",
+        "Price": "RM 198,000",
+        "Units": "433 Unit",
+        "Area": "805 kps"
+    },
+    {
+        "Page": 3,
+        "Name": "Residensi Seruni",
+        "Price": "RM 295,000",
+        "Units": "700 Unit",
+        "Area": "924 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Residensi MH Platinum 2",
+        "Price": "RM 300,000",
+        "Units": "556 Unit",
+        "Area": "806 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Laman Seri Harmoni (LSH33)",
+        "Price": "RM 300,000",
+        "Units": "300 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Residensi Desa Sentralmas",
+        "Price": "RM 230,000",
+        "Units": "298 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Residensi Vista Saujana",
+        "Price": "RM 300,000",
+        "Units": "203 Unit",
+        "Area": "810 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Residensi Riamas",
+        "Price": "RM 230,000",
+        "Units": "646 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "SkyAwani V",
+        "Price": "RM 300,000",
+        "Units": "615 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Residensi Hijauan Pantai",
+        "Price": "RM 300,000",
+        "Units": "629 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Pangsapuri Vista Danau Kota",
+        "Price": "RM 300,000",
+        "Units": "910 Unit",
+        "Area": "810 kps"
+    },
+    {
+        "Page": 4,
+        "Name": "Residensi Armani Petaling",
+        "Price": "RM 300,000",
+        "Units": "77 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Residensi Akasia Jubilee",
+        "Price": "RM 300,000",
+        "Units": "494 Unit",
+        "Area": "814 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Residensi Aman Bukit Jalil",
+        "Price": "RM 300,000",
+        "Units": "1,260 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "SkyAwani IV",
+        "Price": "RM 300,000",
+        "Units": "1,782 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Residensi Metro Kepong (Harga sehingga RM 198,000)",
+        "Price": "RM 188,000 - 198,000",
+        "Units": "1,520 Unit",
+        "Area": "802 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Residensi Minest",
+        "Price": "RM 299,800",
+        "Units": "684 Unit",
+        "Area": "822 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Residensi Laman Sari",
+        "Price": "RM 300,000",
+        "Units": "1000 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Residensi Suria Pantai",
+        "Price": "RM 275,000",
+        "Units": "896 Unit",
+        "Area": "810 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Apartmen Lili Petaling",
+        "Price": "RM 300,000",
+        "Units": "556 Unit",
+        "Area": "820 kps"
+    },
+    {
+        "Page": 5,
+        "Name": "Kondominium Kiara Kasih",
+        "Price": "RM 300,000",
+        "Units": "719 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Residensi Kepongmas 2 (Bumilot sahaja)",
+        "Price": "RM 198,000",
+        "Units": "324 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Residensi Hektar (800kps) - Tanah Rizab Melayu",
+        "Price": "RM 266,000",
+        "Units": "284 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Residensi Kuchaimas",
+        "Price": "RM 198,000",
+        "Units": "478 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Residensi Inspirasi Setapak",
+        "Price": "RM 300,000",
+        "Units": "900 Unit",
+        "Area": "829 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Residensi Akasia Permaisuri",
+        "Price": "RM 300,000",
+        "Units": "200 Unit",
+        "Area": "807 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Residensi Hektar (850kps) - Tanah Rizab Melayu",
+        "Price": "RM 299,900",
+        "Units": "2,116 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Pangsapuri Salak Selatan",
+        "Price": "RM 300,000",
+        "Units": "1,120 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Vista OUG @ Residensi Platinum OUG",
+        "Price": "RM 299,000",
+        "Units": "220 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 6,
+        "Name": "Vista Langkawi @ Residensi PV18",
+        "Price": "RM 300,000",
+        "Units": "398 Unit",
+        "Area": "926 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Vista Wirajaya 2 @ Residensi PV9",
+        "Price": "RM 300,000",
+        "Units": "333 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Residensi Vista Wirajaya",
+        "Price": "RM 300,000",
+        "Units": "515 Unit",
+        "Area": "884 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Residensi Desa Satumas",
+        "Price": "RM 230,000",
+        "Units": "1,346 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "SkyAwani 3 Residences",
+        "Price": "RM 300,000",
+        "Units": "1,905 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Residensi Selayang Damai",
+        "Price": "RM 300,000",
+        "Units": "304 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Residensi Tasikmas",
+        "Price": "RM 198,000",
+        "Units": "463 Unit",
+        "Area": "805 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Selesa Apartment",
+        "Price": "RM 300,000",
+        "Units": "91 Unit",
+        "Area": "754 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Residensi Rampai II",
+        "Price": "RM 300,000",
+        "Units": "308 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 7,
+        "Name": "Residensi Rimbunan Petaling ( Bumi Lot Sahaja )",
+        "Price": "RM 297,888",
+        "Units": "272 Unit",
+        "Area": "829 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Lanai Bukit Jalil (Bumi Lot Sahaja)",
+        "Price": "RM 300,000",
+        "Units": "648 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Enesta Kepong (Bumi Lot Sahaja)",
+        "Price": "RM 300,000",
+        "Units": "254 Unit",
+        "Area": "803 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Seri Wahyu",
+        "Price": "RM 300,000",
+        "Units": "660 Unit",
+        "Area": "805 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Desamas (Bumi Lot Sahaja)",
+        "Price": "RM 300,000",
+        "Units": "323 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Puchongmas (Bumi dan Nonbumi lot)",
+        "Price": "RM 260,000",
+        "Units": "524 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Pandanmas 2 (Bumi Lot Sahaja)",
+        "Price": "RM 300,000",
+        "Units": "1,910 Unit",
+        "Area": "900 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Wangsa Meranti",
+        "Price": "RM 300,000",
+        "Units": "140 Unit",
+        "Area": "804 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Jalilmas",
+        "Price": "RM 198,000",
+        "Units": "1,050 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 8,
+        "Name": "Residensi Semarak Platinum @ Platinum Splendor Residence",
+        "Price": "RM 300,000",
+        "Units": "600 Unit",
+        "Area": "882 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi Gembira 737",
+        "Price": "RM 300,000",
+        "Units": "638 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Pangsapuri Nuri Desa Petaling (Bumi Lot Sahaja)",
+        "Price": "RM 300,000",
+        "Units": "557 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi Wangsamas",
+        "Price": "RM 198,000",
+        "Units": "441 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi Gurneymas",
+        "Price": "RM 198,000",
+        "Units": "274 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi SkyAwani II",
+        "Price": "RM 300,000",
+        "Units": "708 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi SkyAwani",
+        "Price": "RM 300,000",
+        "Units": "1226 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi Hijauan Lumayan (Bumi Lot Sahaja)",
+        "Price": "RM 300,000",
+        "Units": "512 Unit",
+        "Area": "1,035 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi Kepongmas (Bumi Lot Sahaja)",
+        "Price": "RM 198,000",
+        "Units": "1514 Unit",
+        "Area": "800 kps"
+    },
+    {
+        "Page": 9,
+        "Name": "Residensi Hijauan (Casa Green @ Bukit Jalil)",
+        "Price": "RM 300,000",
+        "Units": "490 Unit",
+        "Area": "825 kps"
+    },
+    {
+        "Page": 10,
+        "Name": "Residensi Pandanmas",
+        "Price": "RM 280,000 - 300,000",
+        "Units": "700 Unit",
+        "Area": "850 - 900 kps"
+    },
+    {
+        "Page": 10,
+        "Name": "Residensi Rampai",
+        "Price": "RM 299,900",
+        "Units": "161 Unit",
+        "Area": "850 kps"
+    },
+    {
+        "Page": 10,
+        "Name": "RESIDENSI CENGKIH",
+        "Price": "RM 300,000",
+        "Units": "724 Unit",
+        "Area": "800 kps"
+    }
+]
